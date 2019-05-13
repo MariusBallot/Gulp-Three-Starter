@@ -1,8 +1,8 @@
-#Gulp-Three-Starter
+# Gulp-Three-Starter
 
 This Gulp Starter was made to quickly access the three.js goodness without the struggle of setting everything up
 
-##Installation
+## Installation
 
 Install NPM
 ```
